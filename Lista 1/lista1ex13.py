@@ -1,0 +1,5 @@
+eleitores = int(input("Qual o número de eleitores?"))
+brancos = int(input("Qual o número votos brancos?"))
+nulos = int(input("Qual o número de votos nulos?"))
+print("% Brancos", brancos/eleitores*100)
+print("% Nulos", nulos/eleitores*100)
