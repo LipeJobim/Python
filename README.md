@@ -1,1 +1,1 @@
-Exercícicos da faculdade
+Exercícicos práticos em Python
